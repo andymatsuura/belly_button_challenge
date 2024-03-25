@@ -10,6 +10,7 @@ The dropdown menu is available to toggle through which subject to view informati
 # Demographic Information
 
 In this section, information like ethnicity, gender, age, location, belly button type and washing frequency. It changes based on the Subject ID selected. Information is organized by key-value pair. This was found in the "metadata" array. 
+
 ![image](https://github.com/andymatsuura/belly_button_challenge/assets/150174589/0690119b-bbb1-47bf-bd27-0e60dac41c5b)
 
 # Bar Graph
